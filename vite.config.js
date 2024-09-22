@@ -7,5 +7,5 @@ export default defineConfig({
     react(), // React plugin for Vite
     svgr()   // SVGR plugin for handling SVGs
   ],
-  base: "/portfolio/"
+  base: "/Portfolio/"
 });
