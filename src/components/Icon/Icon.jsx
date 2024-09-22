@@ -5,7 +5,7 @@ import Linkedin from "../../assets/Linkedin.svg?react";
 import CSharp from "../../assets/CSharp.svg?react";
 import Express from "../../assets/Express.svg?react";
 import Javascript from "../../assets/JavaScript.svg?react";
-import JQuery from "../../assets/JQuery.svg?react";
+import JQuery from "../../assets/Jquery.svg?react";
 import NodeJs from "../../assets/NodeJs.svg?react";
 import SocketIO from "../../assets/socketio.svg?react";
 import ReactJS from "../../assets/React.svg?react";
