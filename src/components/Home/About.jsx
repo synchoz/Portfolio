@@ -53,10 +53,10 @@ export default function About({Id}) {
             </div>
             <div className='aboutMeInfo w-full md:w-2/3  md:text-left text-center'>
               <div className='title text-7xl mb-7'>
-                About <span className='text-[#ff004f]'>Me</span>
+              <span className='text-[#ff004f]'>My </span>Background
               </div>
               <div className='mt-2'>
-                <p className='text-gray-500 font-medium text-2xl'><span className='text-[#ff004f]'>My </span>Background, As a dedicated fullstack developer, my expertise lies in <span className='text-[#ff004f]'>HTML</span>, <span className='text-[#ff004f]'>CSS</span>, <span className='text-[#ff004f]'>JavaScript</span> and <span className='text-[#ff004f]'>NodeJS</span>.
+                <p className='text-gray-500 font-medium text-2xl'>As a dedicated fullstack developer, my expertise lies in <span className='text-[#ff004f]'>HTML</span>, <span className='text-[#ff004f]'>CSS</span>, <span className='text-[#ff004f]'>JavaScript</span> and <span className='text-[#ff004f]'>NodeJS</span>.
 Currently, I am deeply engaged with <span className='text-[#ff004f]'>React</span> and <span className='text-[#ff004f]'>Vite</span>, pushing the boundaries of what can be achieved.
 I maintain a perpetual commitment to honing my skills and keeping pace with the ever-evolving landscape of industry trends.</p>
               </div>
