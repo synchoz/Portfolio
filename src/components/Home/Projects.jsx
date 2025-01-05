@@ -9,11 +9,11 @@ const projects = [{
     technologies: ['javascript','react','nodejs','tailwind','mysql']
   },
   {
-    title: 'TicTacToe',
-    description: 'A real-time, two-player TicTacToe game built with Socket.io for seamless connectivity.',
-    imagesource: IMAGES.tictactoe,
-    gitlink: 'https://github.com/synchoz/TicTacToe',
-    technologies: ['javascript','nodejs','socketio']
+    title: 'Blogging Platform API',
+    description: 'A RESTful API built with ASP.NET Core 8 to manage a blogging platform. It supports CRUD operations for blogs and their associated tags.',
+    imagesource: IMAGES.bloggingplatformapi,
+    gitlink: 'https://github.com/synchoz/blogging-platform-api',
+    technologies: ['csharp','postman']
   },
   {
     title: 'StarbucksLocator',
